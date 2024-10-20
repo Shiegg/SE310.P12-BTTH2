@@ -1,0 +1,505 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MotorbikeStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MotorbikeStore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\css\\bootsnav.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootsnav.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\linearicons.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\brand\\br1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\br1.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\brand\\br2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\br2.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\brand\\br3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\br3.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\brand\\br4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\br4.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\brand\\br5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\br5.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\brand\\br6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\br6.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\clients\\c1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\c1.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\clients\\c2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\c2.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\clients\\c3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\c3.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\featured-cars\\fc1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc1.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\featured-cars\\fc2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc2.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\featured-cars\\fc3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc3.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\featured-cars\\fc4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc4.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\featured-cars\\fc5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc5.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\featured-cars\\fc6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc6.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\featured-cars\\fc7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc7.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\featured-cars\\fc8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-cars\\fc8.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\new-cars-model\\ncm1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\new-cars-model\\ncm1.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\new-cars-model\\ncm2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\new-cars-model\\ncm2.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\new-cars-model\\ncm3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\new-cars-model\\ncm3.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\images\\welcome-hero\\ff.png",
+      "PackagePath": "staticwebassets\\assets\\images\\welcome-hero\\ff.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\js\\bootsnav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootsnav.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\feather.min.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\assets\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\logo\\favicon.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\images\\exciter150.png",
+      "PackagePath": "staticwebassets\\images\\exciter150.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\images\\satria150.png",
+      "PackagePath": "staticwebassets\\images\\satria150.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\images\\winner150.png",
+      "PackagePath": "staticwebassets\\images\\winner150.png"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\UIT\\HK5\\NET\\MotorbikeStore\\MotorbikeStore\\MotorbikeStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MotorbikeStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MotorbikeStore.props",
+      "PackagePath": "build\\MotorbikeStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MotorbikeStore.props",
+      "PackagePath": "buildMultiTargeting\\MotorbikeStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MotorbikeStore.props",
+      "PackagePath": "buildTransitive\\MotorbikeStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
