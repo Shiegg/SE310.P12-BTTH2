@@ -2,9 +2,9 @@
 Bài tập thực hành 2 - Thực hành xây dựng Website Công nghệ .NET SE310.P12
 Mục tiêu
 
--         Rèn kỹ năng lập trình
+-   Rèn kỹ năng lập trình
 
--         Xây dựng Website gồm các chức năng:
+-   Xây dựng Website gồm các chức năng:
 
 o   Kết nối CSDL
 
@@ -18,12 +18,12 @@ o   Hệ thống trực quan hóa dữ liệu (cách trình bày dữ liệu the
 
 o   Quản lý người dùng, v.v.
 
--         Khả năng áp dụng và phân tích tính tổng thể của một website. Hiện thực hóa một chủ đề.
+-   Khả năng áp dụng và phân tích tính tổng thể của một website. Hiện thực hóa một chủ đề.
 
--         Vận dụng kiến thức để triển khai một chủ đề theo yêu cầu.
+-   Vận dụng kiến thức để triển khai một chủ đề theo yêu cầu.
 
--         Sử dụng kiến thức ASP.NET MVC/ASP.NET Core
+-   Sử dụng kiến thức ASP.NET MVC/ASP.NET Core
 
--         Áp dụng kiến thức phân tích thiết kế hệ thống
+-   Áp dụng kiến thức phân tích thiết kế hệ thống
 
--         Áp dụng kiến thức thực tế vào xây dựng webssite (sử dụng các theme thư viện giao diện trên themeforest/free) để làm)
+-   Áp dụng kiến thức thực tế vào xây dựng webssite (sử dụng các theme thư viện giao diện trên themeforest/free) để làm)
